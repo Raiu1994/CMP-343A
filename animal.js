@@ -1,3 +1,5 @@
+//This needs to be added to the end of the animal code to work.
+
 horsePrototype = makeMammal ({
 	has_tail : true,
 	hello_text: 'Neigh'
