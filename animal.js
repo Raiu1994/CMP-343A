@@ -1,5 +1,5 @@
 //This needs to be added to the end of the animal code to work.
-
+//This is a test commit.
 horsePrototype = makeMammal ({
 	has_tail : true,
 	hello_text: 'Neigh'
